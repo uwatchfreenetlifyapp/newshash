@@ -1,16 +1,57 @@
 import React from 'react'
-
+import Head from 'next/head'
 
 const contact = () => {
   return (
     <div>
+        <Head>
+        <title>Uwatch4free™ Contact Us</title>
+      
+	<meta name="description" content="Watch
+ now the Best TV shows and Movies " />
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="keywords" content="Uwatch4free,streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
+	<meta name="revisit-after" content="1 days" />
+	<meta property="og:locale" content="en_US" />   
+<meta name="robots" content="index, follow" />  
+<meta name="revisit-after" content="1 days" />
+  <meta name="robots" content="index, follow" />
+	
+	<link rel="icon" type="image/x-icon" href="favicon.ico" />
+	<meta property="og:site_name" content="Uwatch4free™ | Watch Movies and TV-Series Online Free " />
+	<meta property="og:type" content="website" />
+	<meta property="og:image:height" content="1280"/>
+	<meta property="og:image:width" content="720"/>
+	<meta property="og:title" content="Uwatch4free™ | Watch Movies and TV-Series Online Free " />
+	<meta property="og:description" content="Watch Movies and TV-Series Online Free " />
+	<meta property="og:url" content="https://uwatch4free.netlify.app/" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="og:image" content="https://uwatch4free.netlify.app/og_image.jpg" />
+	<meta property="og:image:secure_url" content="https://uwatch4free.netlify.app/og_image.jpg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Uwatch4free™ " />
+	<meta name="twitter:description" content=" Watch Movies and TV-Series Online Free " />
+	<meta name="twitter:image" content="https://uwatch4free.netlify.app/og_image.jpg" />
+  <script src="../../propler/ads.js" defer></script> 
+  
+  <meta name="google-site-verification" content="WQh7UdOVLh--PluVaU8U1m1IHrAPjaWmaItVOdek8tg" />
+  <link rel="alternate" hreflang="en-us" 	href="https://uwatch4free.netlify.app/"/>
+	<link rel="alternate" hreflang="en-gb" 	href="https://uwatch4free.netlify.app/"/>
+	<link rel="alternate" hreflang="en-ca" 	href="https://uwatch4free.netlify.app/"/>
+	<link rel="alternate" hreflang="en-au" 	href="https://uwatch4free.netlify.app/"/>
+	<link rel="alternate" hreflang="en-se" 	href="https://uwatch4free.netlify.app/"/>
+	<link rel="alternate" hreflang="en-fr" 	href="https://uwatch4free.netlify.app/"/>
+	<link rel="alternate" hreflang="en-dk" 	href="https://uwatch4free.netlify.app/"/>
+	<link rel="alternate" hreflang="en-no" 	href="https://uwatch4free.netlify.app/"/>
+	<link rel="alternate" hreflang="x-default" 	href="https://uwatch4free.netlify.app/"/>
+      </Head>
 <div class="container my-24 px-6 mx-auto">
 
 
 <section class="mb-32 text-gray-800">
   <div class="flex flex-wrap">
     <div class="grow-0 shrink-0 basis-auto mb-6 md:mb-0 w-full md:w-6/12 px-3 lg:px-6">
-      <h2 class="text-3xl font-bold mb-6">Contact us</h2>
+      <h1 class="text-3xl font-bold mb-6">Contact us</h1>
       <p class="text-gray-500 mb-6">
         For Bussiness Enquiry Please Conatct @ Below Mention Email ID
       </p>

@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-    siteUrl: 'https://hbomaxmovies.netlify.app/',
+    siteUrl: 'https://uwatch4free.netlify.app/',
     changefreq: 'daily',
     priority: 0.80,
     generateRobotsTxt: true,

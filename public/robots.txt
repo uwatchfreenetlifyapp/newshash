@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://hbomaxmovies.netlify.app/
+Host: https://uwatch4free.netlify.app/
 
 # Sitemaps
-Sitemap: https://hbomaxmovies.netlify.app/sitemap.xml
+Sitemap: https://uwatch4free.netlify.app/sitemap.xml
